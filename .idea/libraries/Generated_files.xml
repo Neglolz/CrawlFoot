@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/scriptGetPlayerFifa.js" />
+        <item url="file://$PROJECT_DIR$/dist/db.js" />
+        <item url="file://$PROJECT_DIR$/dist/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/crawlplayer.js" />
+        <item url="file://$PROJECT_DIR$/dist/playerFifa.js" />
+        <item url="file://$PROJECT_DIR$/dist/models/player.js" />
+        <item url="file://$PROJECT_DIR$/dist/models/playerFifa.js" />
+        <item url="file://$PROJECT_DIR$/dist/ajaxCall.js" />
+        <item url="file://$PROJECT_DIR$/dist/app.js" />
+        <item url="file://$PROJECT_DIR$/dist/models/idplayer.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/scriptGetPlayerFifa.js" />
+      <root url="file://$PROJECT_DIR$/dist/db.js" />
+      <root url="file://$PROJECT_DIR$/dist/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/crawlplayer.js" />
+      <root url="file://$PROJECT_DIR$/dist/playerFifa.js" />
+      <root url="file://$PROJECT_DIR$/dist/models/player.js" />
+      <root url="file://$PROJECT_DIR$/dist/models/playerFifa.js" />
+      <root url="file://$PROJECT_DIR$/dist/ajaxCall.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/models/idplayer.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
