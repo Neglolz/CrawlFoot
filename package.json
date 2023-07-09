@@ -13,7 +13,7 @@
     "express": "^4.16.1",
     "jquery": "^3.2.1",
     "mongoose": "^4.11.11",
-    "nodemon": "^1.12.1",
+    "nodemon": "^3.0.0",
     "request": "^2.81.0",
     "socket.io": "^2.0.3",
     "xmlhttprequest": "^1.8.0"
